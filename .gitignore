@@ -1,0 +1,8 @@
+/__pycache__
+/published
+.DS_Store
+/build_info
+/sphinx_settings.json
+/sphinx-enki-info.txt
+/build
+/.project
